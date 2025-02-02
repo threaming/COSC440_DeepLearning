@@ -6,7 +6,7 @@ This repository contains code made in the Deep Learning course at University of 
 |:------------------------:|:------------------------:|:------------------------:|
 | ![](images/MNIST_output.png)| CNN prediction of MNIST dataset. Implemented in NumPy. | [Assigment 1 Jupyter Notebook](A1_MNIST/assignement1.ipynb) |
 | ![](images/CIFAR_output.png)| CNN prediction of Dogs and Cats in CIFAR dataset. Implemented with NumPy and TensorFlow. | [Assignment 2 Jupyter Notebook](A2_CIFAR/assignment2.ipynb) |
-| ![](images/Autoencoder_output.png)| Output of a convolution Autoencoder. Implemented with TensorFlow and Keras. | [Assignment 2 Jupyter Notebook](Cosc440_assignment3_AndyMing.ipynb) |
+| ![](images/Autoencoder_output.png)| Output of a convolution Autoencoder. Implemented with TensorFlow and Keras. | [Assignment 3 Jupyter Notebook](Cosc440_assignment3_AndyMing.ipynb) |
 | ![](images/MiniFold_output.png)| Output of a very very lightweight implementation of AlphaFold. Implemented with TensorFlow and Keras. | [Project Documentation](Project_Minifold/COSC440_ProjectDoc_AndyMing.pdf) |
 | ![](images/MiniFold_LossFunction.png)| Loss-function of two architectures of the implemented AlphaFold knock-off |                           |
 
