@@ -52,7 +52,6 @@ class Model:
         :return: gradient for weights, and gradient for biases
         """
         # TODO: calculate the gradients for the weights and the gradients for the bias with respect to average loss
-        # HINT: np.argmax(outputs, axis=1) will give the index of the largest output
         labels_OH = np.zeros((labels.size, self.num_classes), dtype=int)
         labels_OH[np.arange(labels.size),labels] = 1  # One-Hot encoding
         # y = expected - (f(x)>0)
